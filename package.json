@@ -1,0 +1,23 @@
+{
+	"name": "SIPTV Portal",
+	"date": "2019.01.10",
+	"version": "1.0.0",
+	"description": "SIPTV Portal",
+	"author": {
+		"name": "Olumalia"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/olumalia/siptv.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "SIPTV Portal",
+		"legacy": true,
+		"description": "SIPTV Portal",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
