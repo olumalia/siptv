@@ -1,8 +1,8 @@
 {
-	"name": "SIPTV Portal",
+	"name": "SIPTV.Portal",
 	"date": "2019.01.10",
 	"version": "1.0.0",
-	"description": "SIPTV Portal",
+	"description": "SIPTV.Portal",
 	"author": {
 		"name": "Olumalia"
 	},
@@ -14,9 +14,9 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "SIPTV Portal",
+		"name": "SIPTV.Portal",
 		"legacy": true,
-		"description": "SIPTV Portal",
+		"description": "SIPTV.Portal",
 		"backgroundColor": "#00C8DA",
 		"icons": "icons"
 	}
